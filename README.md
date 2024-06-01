@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitizdayal&show_icons=true&locale=en" alt="kshitizdayal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitizdayal&" alt="kshitizdayal" /></p>
+
+<p><img src="https://streak-stats.demolab.com?user=KshitizDayal&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  /></p>
