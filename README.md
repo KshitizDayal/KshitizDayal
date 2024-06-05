@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kshitiz Dayal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [Backend Learning Course](https://github.com/KshitizDayal/backend-yt-hitesh)
+- 🔭 I’m currently working as Freelancer
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning AI/ML
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **kshitizdayal14@gmail.com**
 
