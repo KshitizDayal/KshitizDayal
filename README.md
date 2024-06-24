@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Freelancer
 
-- 🌱 I’m currently learning Data Structures and Algorithms 
+- 🌱 I’m currently learning Data Structures and Algorithms along with AI/ML
 
 - 💬 Ask me about **Software Development**
 
