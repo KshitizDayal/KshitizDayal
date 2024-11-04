@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as SDE-I at Junglee Games
 
-- 🌱 I’m currently learning **Data Structures and Algorithms** along with **AI/ML**
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **Software Development**
 
